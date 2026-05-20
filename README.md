@@ -112,7 +112,10 @@ src/
 
 | 파일 | 내용 |
 |------|------|
-| [Notion 설계서](https://www.notion.so/4-341c782cda038053840de77625bb6d97) | 전체 설계 문서 (요구사항, ERD, API 명세) |
+| [docs/design.md](./docs/design.md) | **설계 정본** — 아키텍처, ERD, API, 시퀀스, 테스트 케이스 등 전체 스펙 |
+| [AGENTS.md](./AGENTS.md) | AI 코딩 에이전트(Claude Code / Codex) 강제 규칙 |
 | [docs/test-scenarios.md](./docs/test-scenarios.md) | TDD 시나리오 Given/When/Then |
+| [노션 미러](https://www.notion.so/365c782cda0380089666eeff993048b7) | 회의/공유용 (정본은 docs/design.md) |
+| [원본 설계 (피드백 이전)](https://www.notion.so/4-341c782cda038053840de77625bb6d97) | 보존용 |
 | `docs/learning-log.md` | (작성 예정) 학습 기록 |
 | `docs/decisions.md` | (작성 예정) 설계 결정 (ADR) |
